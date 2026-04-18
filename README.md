@@ -8,7 +8,7 @@ The goal of this system is to simplify the process of organizing tutoring sessio
 
 ## Project Documentation
 
-- [ACtivity and State Reflections](activity_and_state_reflections.md)
+- [Activity and State Reflections](activity_and_state_reflections.md)
 - [Activity Workflow Modelling](activity_worflow_modelling.md)
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [Kanban Explanation](kanban_explanation.md)
