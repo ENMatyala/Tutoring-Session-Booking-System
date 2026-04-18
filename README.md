@@ -8,9 +8,11 @@ The goal of this system is to simplify the process of organizing tutoring sessio
 
 ## Project Documentation
 
-- [Agile Planning Document](agile_planning_document.md)
+- [ACtivity and State Reflections](activity_and_state_reflections.md)
+- [Activity Workflow Modelling](activity_worflow_modelling.md)
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [Kanban Explanation](kanban_explanation.md)
+- [Object State Modelling](object_state_modelling.md)
 - [Reflection In Balancing Stakeholder Needs.md](reflection_in_balancing_stakeholder.md)
 - [Reflection Translating Requirements To Use Cases.md](releflection_translating_requirements_to_use_cases.md)
 - [Selecting and Customising Reflection](selecting_and_customising_reflection.md)
