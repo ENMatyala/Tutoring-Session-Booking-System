@@ -8,6 +8,13 @@ The goal of this system is to simplify the process of organizing tutoring sessio
 
 ## Project Documentation
 
+
+- [creational patterns](./creational_patterns)
+- [inmemory](./repositories/inmemory/)
+- [factories](./factories)
+- [repositories](./repositories)
+- [src](./src)
+- [tests](./tests)
 - [Activity and State Reflections](activity_and_state_reflections.md)
 - [Activity Workflow Modelling](activity_worflow_modelling.md)
 - [ARCHITECTURE.md](ARCHITECTURE.md)
@@ -27,9 +34,6 @@ The goal of this system is to simplify the process of organizing tutoring sessio
 - [Test Cases Table](test_cases_table.md)
 - [Use Case Specifications](use_case_specifications.md)
 - [User Stories Reflection](user_stories_reflection.md)
-- [src](./src)
-- [creational patterns](./creational_patterns)
-- [tests](./tests)
 
 ---
 &nbsp;
