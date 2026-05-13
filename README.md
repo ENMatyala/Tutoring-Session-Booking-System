@@ -9,6 +9,10 @@ The goal of this system is to simplify the process of organizing tutoring sessio
 ## Project Documentation
 
 
+- [api](./api/)
+- [docs](./docs/)
+- [models](./models/)
+- [services](./services/)
 - [creational patterns](./creational_patterns)
 - [inmemory](./repositories/inmemory/)
 - [factories](./factories)
